@@ -1,0 +1,19 @@
+{
+  "wheel_id": 387,
+  "structure": "umbrella",
+  "slug": "melbournenorthkitchenrenovation-com-105",
+  "project": "kitchen-renovations-melbourne-north-comparison-c345fdb19fc85c03",
+  "parent_t1_ref": "melbournenorthkitchenrenovation-com-152",
+  "node_role": "feeder",
+  "money_target": "melbournenorthkitchenrenovation.com.au",
+  "primary_kw": "kitchen renovations melbourne north comparison",
+  "intended_url": "https://sitesau.github.io/melbournenorthkitchenrenovation-com-105/",
+  "writeback_nonce": "663c8fc7ef185239",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/kitchen-renovations-melbourne-north-a5a299ebdc0c195c473587cd69b/",
+      "anchor": "kitchen renovations melbourne north",
+      "rel": "follow"
+    }
+  ]
+}
